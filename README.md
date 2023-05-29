@@ -18,7 +18,7 @@ Once resources have been setup, the standard way of using the tool is:
 ### Spin up and tear down resources
 
 ```
-usage: main.py setup [-h] {create,cleanup} ...
+usage: hashcloud.py setup [-h] {create,cleanup} ...
 
 positional arguments:
   {create,cleanup}
@@ -30,7 +30,7 @@ positional arguments:
 ### Manage wordlists
 
 ```
-usage: main.py wordlists [-h] {list,upload} ...
+usage: hashcloud.py wordlists [-h] {list,upload} ...
 
 positional arguments:
   {list,upload}
@@ -41,7 +41,7 @@ positional arguments:
 ### Crack files
 
 ```
-usage: main.py crack [-h] {initiate,status,result} ...
+usage: hashcloud.py crack [-h] {initiate,status,result} ...
 
 positional arguments:
   {initiate,status,result}
