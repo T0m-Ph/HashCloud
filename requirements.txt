@@ -1,0 +1,15 @@
+boto3
+botocore
+certifi
+charset-normalize
+docker
+idna
+jmespath
+packaging
+python-dateutil
+requests
+s3transfer
+six
+tabulate
+urllib3
+websocket-client
